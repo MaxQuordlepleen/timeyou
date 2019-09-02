@@ -1,0 +1,22 @@
+{
+  "name": "timeular",
+  "version": "1.0.0",
+  "engines": {
+    "node": "<9"
+  },
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "1.8.15",
+    "noble": "1.9.1",
+    "node-web-bluetooth": "1.1.0",
+    "node-xpc-connection": "https://github.com/taoyuan/node-xpc-connection.git",
+    "sqlite": "3.0.3"
+  }
+}

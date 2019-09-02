@@ -1,0 +1,43 @@
+{
+    "devicemac": "",
+    "dbpath": "",
+    "minimumactivitylength": "300",
+    "activities": [
+        {
+            "face": "0",
+            "name": "Study",
+            "otherdata": "something"
+        },
+        {
+            "face": "1",
+            "name": "Research",
+            "otherdata": "something"
+        },
+        {
+            "face": "2",
+            "name": "Development",
+            "otherdata": "something"
+        },
+        {
+            "face": "3",
+            "name": "Discussion",
+            "otherdata": "something"
+        },
+        {
+            "face": "4",
+            "name": "Fixing Bugs",
+            "otherdata": "something"
+        },
+        {
+            "face": "5",
+            "name": "Email",
+            "otherdata": "something"
+        },
+        {
+            "face": "6",
+            "name": "Meeting",
+            "otherdata": "something"
+        }
+    ]
+
+}
