@@ -13,10 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dayjs": "1.8.15",
+    "dayjs": "1.8.23",
     "noble": "1.9.1",
     "node-web-bluetooth": "1.1.0",
     "node-xpc-connection": "https://github.com/taoyuan/node-xpc-connection.git",
-    "sqlite": "3.0.3"
+    "sqlite": "3.0.5"
   }
 }
